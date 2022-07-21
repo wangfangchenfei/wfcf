@@ -1,3 +1,3 @@
 <div class="mdui-typo">
-<a href="https://wfcf.rth7.com/update.html#mdui-dialog">蓝奏云链接</a>
+<a href="update.html">蓝奏云链接</a>
 </div>
